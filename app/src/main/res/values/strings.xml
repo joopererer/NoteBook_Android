@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="delete_dialog_title">Delete note ?</string>
+    <string name="delete_dialog_confirm">Oui</string>
+    <string name="delete_dialog_cancel">Non</string>
+    <string name="topbar_title">%d notes</string>
+    <string name="edit_page_title_new">New Note</string>
+    <string name="edit_page_title_edit">Edit Note</string>
+</resources>
